@@ -1,4 +1,4 @@
 git is a distaributed verson control system
-gir is free software
+git is freedom` software distributed under the GPL
 
 
